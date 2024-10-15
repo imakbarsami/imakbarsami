@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Networking and Linux.**
 
-- 👨‍💻 All of my projects are available at [https://linkmix.co/22369303](https://linkmix.co/22369303)
+- 👨‍💻 All of my projects are available at [https://linkmix.co/27271324](https://linkmix.co/27271324)
 
 - 💬 Ask me about **Java,Python and Online-Related Issues.**
 
 - 📫 How to reach me **mdsami6251@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/blL79](https://shorturl.at/blL79)
+- 📄 Know about my experiences [https://akbarsamiprojects.com](https://shorturl.at/blL79)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
