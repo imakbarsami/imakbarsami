@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Networking and Linux.**
 
-- 👨‍💻 All of my projects are available at [https://linkmix.co/27271324](https://linkmix.co/27271324)
+- 👨‍💻 All of my projects are available at [https://akbarsamiprojects.com](https://linkmix.co/27271324)
 
 - 💬 Ask me about **Java,Python and Online-Related Issues.**
 
