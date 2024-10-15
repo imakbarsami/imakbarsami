@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ChatApp**
 
-- 🌱 I’m currently learning **Networking and Linux.**
+- 🌱 I’m currently learning **Networking and Kali Linux.**
 
 - 👨‍💻 All of my projects are available at [https://akbarsamiprojects.com](https://linkmix.co/27271324)
 
