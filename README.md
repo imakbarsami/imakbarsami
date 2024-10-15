@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mdsami6251@gmail.com**
 
-- 📄 Know about my experiences [https://akbarsamiprojects.com](https://shorturl.at/blL79)
+- 📄 Know about my experiences [https://shorturl.at/blL79](https://shorturl.at/blL79)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
