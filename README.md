@@ -33,6 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbarsami22&show_icons=true&locale=en" alt="akbarsami22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarsami22&" alt="akbarsami22" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbarsami22" alt="akbarsami22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akbarsami22" target="blank"><img src="https://img.shields.io/twitter/follow/akbarsami22?logo=twitter&style=for-the-badge" alt="akbarsami22" /></a> </p>
