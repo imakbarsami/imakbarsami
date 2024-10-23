@@ -1,3 +1,4 @@
+![banner](https://github.com/akbarsami21/akbarsami21/assets/109865799/9d0940d4-f2a6-43e4-a238-89701a3b3292)
 <h1 align="center">Hi 👋, I'm Akbar Sami</h1>
 <h3 align="center">Third-Year Computer Science Student Aspiring to Become a Software Engineer</h3>
 
