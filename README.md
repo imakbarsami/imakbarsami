@@ -1,7 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/22a654bd-f27d-428d-bc84-a75919ade5db)
 
 <h1 align="center">Hi 👋, I'm Akbar Sami</h1>
-<h3 align="center">Third-Year Computer Science Student Aspiring to Become a Software Engineer</h3>
+<h3 align="center">Final-Year Computer Science Student Aspiring to Become a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarsami22&label=Profile%20views&color=0e75b6&style=flat" alt="akbarsami22" /> </p>
 
