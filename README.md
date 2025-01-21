@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imakbarsami&label=Profile%20views&color=0e75b6&style=flat" alt="imakbarsami" /> </p>
 
 
-- 🔭 I’m currently working on **ChatApp**
+- 🔭 I’m currently working on **Construction App**
 
 - 🌱 I’m currently learning **Networking and Kali Linux.**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java,Python and Online-Related Issues.**
 
-- 📫 How to reach me **mdsami6251@gmail.com**
+- 📫 How to reach me **mdsamipuc@gmail.com**
 
 - 📄 Know about my experiences [https://akbarsamiresume.com](https://shorturl.at/0ilAo)
 
