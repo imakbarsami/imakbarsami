@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **imakbarsami@gmail.com**
 
-- 📄 Know about my experiences [https://imakbarsami.resume.com](https://drive.google.com/file/d/1hh78wT5qi0zkCj-3rlEEcV1FU6d8fwvK/view?usp=drive_link)
+- 📄 Know about my experiences [https://imakbarsami.resume.com](https://drive.google.com/file/d/1xY56eVdqIjT2eog503VnbQTdY3W87xNG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
